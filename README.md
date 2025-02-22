@@ -5,7 +5,7 @@
 - 📫 Contato: (98) 98439-2704
 - 😄 Pronouns: Ela/dela
 
-
+![Yasmim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmimcosm&show_icons=true&theme=synthwave)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&layout=compact)
 
 <div style="display: inline_block"><br>
