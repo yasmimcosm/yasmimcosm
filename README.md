@@ -1,13 +1,15 @@
-## console.log("Hello, World!");
+## console.log("Hello, World!"); <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="45">
 
-- 🔭 Estudante de Ciência da Computação
-- 🌱 Estudando Javascript | Python
-- 📫 Contato: (98) 98439-2704
-- 😄 Pronouns: Ela/dela
+##### Resumo:
+> * 🔭 Estudante de **Ciência da Computação**.
+> * 🌱 Estudando **Javascript | Python**.
+> * 📫 Contato: **(98) 98439-2704**.
+> * 😄 Pronouns: **Ela/dela**.
 
 #
 
-<img align="right" alt="" height="190px" src=".github/study.gif">
+<img align="right" alt="" height="190px" src="https://media1.tenor.com/m/D48L_xXEcDoAAAAd/stress-study.gif" width="300px" height="170px">
+
 
 <h3 align="left">Connect with me!</h3>
 
