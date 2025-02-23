@@ -3,7 +3,7 @@
 ##### Resumo:
 > * 🔭 Estudante de **Ciência da Computação!**.
 > * 🌱 Estudando **Javascript | Python**.
-> * 📫 Contato: **(98) 98439-2704**.
+> * 📫 Contato: **(98) 98 439-2704**.
 > * 😄 Pronouns: **Ela/dela**.
 
 #
