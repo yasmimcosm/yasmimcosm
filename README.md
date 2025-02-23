@@ -1,10 +1,10 @@
 ## <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="45"> console.log("Hello, World!"); 
 
-##### Resumo:
-> * 🔭 Estudante de **Ciência da Computação!**.
-> * 🌱 Estudando **Javascript | Python**.
-> * 📫 Contato: **(98) 98 439-2704**.
-> * 😄 Pronouns: **Ela/dela**.
+##### Sobre mim:
+> * 🚀 Estudante de Ciência da Computação | Apaixonada por tecnologia e inovação
+> * 💡 Explorando **JavaScript | Python | Arduino | HTML & CSS**
+> * 🔬 Pesquisadora | Meninas STEM
+> *  📫 Contato: **(98) 98 439-2704**.
 
 #
 
