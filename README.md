@@ -10,7 +10,7 @@
 
 <img align="right" alt="" height="190px" src="https://media1.tenor.com/m/D48L_xXEcDoAAAAd/stress-study.gif" width="300px" height="170px">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">  📬  Connect with me!</h3>
 
 <br>
 
@@ -19,7 +19,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/yasmimcosm/)
 
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left"> 💻 My Stack ~</h3>
 
 <div align="left">
   <img alt="Rafa-Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="html5 logo"  />
