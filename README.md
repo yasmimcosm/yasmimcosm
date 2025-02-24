@@ -10,8 +10,9 @@
 
 <img align="right" alt="" height="190px" src="https://media1.tenor.com/m/D48L_xXEcDoAAAAd/stress-study.gif" width="300px" height="170px">
 
-
 <h3 align="left">Connect with me!</h3>
+
+<br>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:yasmicosm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/yasmim-cosme/)
