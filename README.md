@@ -2,7 +2,7 @@
 
 ##### Sobre mim:
 > * 🚀 Estudante de Ciência da Computação | Apaixonada por tecnologia e inovação
-> * 💡 Explorando **JavaScript | Python | Arduino | HTML & CSS**
+> * 💡 Explorando **JavaScript | Python | HTML & CSS**
 > * 🔬 Pesquisadora | Meninas STEM
 > *  📫 Contato: **(98) 98 439-2704**.
 
