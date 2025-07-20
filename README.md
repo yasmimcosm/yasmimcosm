@@ -1,4 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="45"> console.log("Hello, World!"); 
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJrcGgyc3ZvaWZpeW9xbDhvZXprNzNhZGVuaTh6Z2wzaGVxZDZiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" height="45"> console.log("Hello, World!"); 
 <p align="left">
   Cientista da Computação em formação, determinada a transformar tecnologia em impacto social. <br>
  Dedico-me a criar soluções práticas com base em <strong>Ciência de Dados, Inteligência Artificial e Web</strong>, sempre com o propósito de inspirar e apoiar outras pessoas, especialmente meninas na tecnologia. ❤️
