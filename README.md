@@ -5,10 +5,10 @@
 </p>
 
 ### Sobre mim:
-> * 📚 Estudante de Ciência da Computação | Apaixonada por tecnologia e inovação
-> * 💡 Explorando **Java | Python**
-> * 🎓 Pesquisadora | Meninas STEM
-> * 📫 Contato: **(98) 98 439-2704**.
+ * 📚 Estudante de Ciência da Computação | Apaixonada por tecnologia e inovação
+ * 💡 Explorando **Java | Python**
+ * 🎓 Pesquisadora | Meninas STEM
+ * 📫 Contato: **(98) 98 439-2704**.
 
 <br>
 
