@@ -39,7 +39,7 @@ Não sou espectadora do futuro, sou autora dele. ✊💻<br>
 
 <p align="left">
 Acredito em conexões que somam e transformam.
-Me chama no LinkedIn, no Insta ou por e-mail — vou adorar trocar com você!  💌✨
+Me chama no LinkedIn, no Insta ou por e-mail!  💌✨
 </p>
 
 <p align="left">
