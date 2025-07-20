@@ -6,9 +6,9 @@
 
 ### Sobre mim:
  * 📚 Estudante de Ciência da Computação | Apaixonada por tecnologia e inovação
- * 💡 Explorando **Java | Python**
+ * 📝 Explorando **Java | Python**
  * 🎓 Pesquisadora | Meninas STEM
- * 📫 Contato: **(98) 98 439-2704**.
+ * ☎️ Contato: **(98) 98 439-2704**.
 
 
 ## ⭐ GitHub Stats
