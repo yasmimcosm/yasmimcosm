@@ -65,6 +65,7 @@ Me chama no LinkedIn, no Insta ou por e-mail — vou adorar trocar com você!  �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="8" />
 
+<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=true&fontColor=3f37c9)"/>
   
 <br><br>
 ## ⭐ GitHub Stats
@@ -72,3 +73,4 @@ Me chama no LinkedIn, no Insta ou por e-mail — vou adorar trocar com você!  �
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmimcosm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&layout=compact&langs_count=6&theme=radical"/>
   
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=true&fontColor=3f72585,100:10002B"/>
