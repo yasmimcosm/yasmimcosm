@@ -72,4 +72,4 @@ Me chama no LinkedIn, no Insta ou por e-mail — vou adorar trocar com você!  �
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
 </picture>
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=true&fontColor=3a0ca34,100:10002B"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=true&fontColor=6a329f,100:10002B"/>
