@@ -71,7 +71,7 @@ Me chama no LinkedIn, no Insta ou por e-mail!  💌✨
 </p>
 
 
-<h3 align="left"> 💻 My Stack ~</h3>
+<h3 align="left"> 💻 Tecnologias e Ferramentas</h3>
 
 <div align="left">
   <img alt="Rafa-Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60" alt="html5 logo"  />
