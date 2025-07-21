@@ -19,7 +19,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
 </picture>
 
-<br><br>
+<br>
 
 <h1>console.log("Hello, World!");</h1>
 <br>
