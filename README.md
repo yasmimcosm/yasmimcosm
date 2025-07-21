@@ -5,13 +5,6 @@
 </p>
 
 ---
-## 👨‍💻 Sobre mim
-
-Cientista da Computação em formação, determinada a transformar tecnologia em impacto social. Dedico-me a criar soluções práticas com base em <strong>Ciência de Dados, Inteligência Artificial e Web</strong>, sempre com o propósito de inspirar e apoiar outras pessoas, especialmente meninas na tecnologia. 💗
-
----
-
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph-dark.svg">
@@ -21,13 +14,43 @@ Cientista da Computação em formação, determinada a transformar tecnologia em
 
 <br>
 
+<div align="center">
+
+  
+
+### 💻 Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" title="Java" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+
+### Ferramentas & Produtividade
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" title="IntelliJ IDEA" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VS Code" />
+
+---
+</div>
+<br>
+
 <h1>console.log("Hello, World!");</h1>
 <br>
 <img src=".github/workflows/study.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Sou formada como <strong>Técnica em Administração</strong> pelo IFMA e atualmente curso o <strong>2º período de Ciência da Computação</strong> na UFPI. <br><br>
-Tenho focado meus estudos em <strong>Python</strong>, <strong>C</strong> e <strong>JavaScript</strong>, explorando áreas como <strong>Ciência de Dados</strong>, <strong>Inteligência Artificial</strong> e <strong>Desenvolvimento Web</strong>. Estou me aprofundando em conceitos como <strong>Programação Orientada a Objetos</strong>, <strong>Estrutura de Dados</strong>, <strong>Matemática Discreta</strong> e <strong>Cálculo</strong>, além de aprender <strong>HTML</strong>, <strong>CSS</strong> e <strong>Front-end</strong>.<br><br>
+<p>
+    Sou formada como Técnica em Administração pelo <strong>IFMA</strong> e atualmente curso o 2º período de <strong>Ciência da Computação</strong> na <strong>UFPI</strong>. Cientista da Computação em formação, determinada a transformar tecnologia em impacto social.
+  </p>
+  <p>
+    Tenho me dedicado a criar soluções práticas com base em <strong>Ciência de Dados</strong>, <strong>Inteligência Artificial</strong> e <strong>Desenvolvimento Web</strong>, sempre com o propósito de inspirar e apoiar outras pessoas — especialmente meninas na tecnologia. 💗
+  </p>
+  <p>
+    Meus estudos estão focados em <strong>Python</strong>, <strong>C</strong> e <strong>JavaScript</strong>, explorando desde conceitos como <em>Programação Orientada a Objetos</em>, <em>Estrutura de Dados</em>, <em>Matemática Discreta</em> e <em>Cálculo</em>, até o desenvolvimento <em>Front-end</em> com <strong>HTML</strong> e <strong>CSS</strong>.
+  </p>
+  <p>
+<br>
 Programar é minha forma de transformar o mundo.
 Não sou espectadora do futuro, sou autora dele. ✊💻<br>
 </p>
@@ -52,20 +75,6 @@ Me chama no LinkedIn, no Insta ou por e-mail!  💌✨
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-
-<h3 align="left"> 💻 Tecnologias e Ferramentas</h3>
-
-<div align="left">
-  <img alt="Rafa-Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  
-<br><br>
 
 ## ⭐ GitHub Stats
 <br>
