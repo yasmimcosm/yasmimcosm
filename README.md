@@ -13,11 +13,19 @@
 
 <br>
 
-### Sobre mim:
+## Sobre mim:
  * 📚 Estudante de Ciência da Computação | Apaixonada por tecnologia e inovação
  * 📝 Explorando **Java | Python**
  * 🎓 Pesquisadora | Meninas STEM
  * ☎️ Contato: **(98) 98 439-2704**.
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
+</picture>
 
 <br>
 
@@ -28,14 +36,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmimcosm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&layout=compact&langs_count=6&theme=radical"/>
 </a>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
-</picture>
 
 <br><br>
 
