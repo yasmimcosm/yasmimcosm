@@ -5,11 +5,11 @@
 </p>
 
 ---
+## 👨‍💻 Sobre mim
 
-<p align="center">
-  Cientista da Computação em formação, determinada a transformar tecnologia em impacto social.
- Dedico-me a criar soluções práticas com base em <strong>Ciência de Dados, Inteligência Artificial e Web</strong>, sempre com o propósito de inspirar e apoiar outras pessoas, especialmente meninas na tecnologia. 💗
-</p>
+Cientista da Computação em formação, determinada a transformar tecnologia em impacto social. Dedico-me a criar soluções práticas com base em <strong>Ciência de Dados, Inteligência Artificial e Web</strong>, sempre com o propósito de inspirar e apoiar outras pessoas, especialmente meninas na tecnologia. 💗
+
+---
 
 <br>
 
