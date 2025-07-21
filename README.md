@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js" />
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <br><br>
+  <br>
   
   ### Ferramentas & Produtividade
 
