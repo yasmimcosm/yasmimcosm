@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJrcGgyc3ZvaWZpeW9xbDhvZXprNzNhZGVuaTh6Z2wzaGVxZDZiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" height="45">  Yasmim Silva Cosme</h1>
 
 <p align="center">
-  <i>Desenvolvedor Frotend | Estudante de Ciência da Computação | Entusiasta em Cientista de Dados</i>
+  <i>Desenvolvedora Frotend | Estudante de Ciência da Computação | Entusiasta em Cientista de Dados</i>
 </p>
 
 ---
