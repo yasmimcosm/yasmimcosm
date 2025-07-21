@@ -13,29 +13,11 @@
 
 <br>
 
-## Sobre mim:
- * 📚 Estudante de Ciência da Computação | Apaixonada por tecnologia e inovação
- * 📝 Explorando **Java | Python**
- * 🎓 Pesquisadora | Meninas STEM
- * ☎️ Contato: **(98) 98 439-2704**.
-
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
 </picture>
-
-<br>
-
-## ⭐ GitHub Stats
-<br>
-
-<a href="https://github.com/yasmim-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmimcosm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&layout=compact&langs_count=6&theme=radical"/>
-</a>
 
 <br><br>
 
@@ -83,6 +65,16 @@ Me chama no LinkedIn, no Insta ou por e-mail!  💌✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
   <img width="12" />
   
+<br><br>
+
+## ⭐ GitHub Stats
 <br>
+
+<a href="https://github.com/yasmim-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasmimcosm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&layout=compact&langs_count=6&theme=radical"/>
+</a>
+
+<br><br>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=true&fontColor=6a329f,100:10002B"/>
