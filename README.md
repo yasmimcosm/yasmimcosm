@@ -1,8 +1,17 @@
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJrcGgyc3ZvaWZpeW9xbDhvZXprNzNhZGVuaTh6Z2wzaGVxZDZiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" height="45"> console.log("Hello, World!"); 
-<p align="left">
-  Cientista da Computação em formação, determinada a transformar tecnologia em impacto social. <br>
+<h1 align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJrcGgyc3ZvaWZpeW9xbDhvZXprNzNhZGVuaTh6Z2wzaGVxZDZiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" height="45">  Yasmim Silva Cosme</h1>
+
+<p align="center">
+  <i>Desenvolvedor Frotend | Estudante de Ciência da Computação | Entusiasta em Cientista de Dados</i>
+</p>
+
+---
+
+<p align="center">
+  Cientista da Computação em formação, determinada a transformar tecnologia em impacto social.
  Dedico-me a criar soluções práticas com base em <strong>Ciência de Dados, Inteligência Artificial e Web</strong>, sempre com o propósito de inspirar e apoiar outras pessoas, especialmente meninas na tecnologia. 💗
 </p>
+
+<br>
 
 ### Sobre mim:
  * 📚 Estudante de Ciência da Computação | Apaixonada por tecnologia e inovação
@@ -10,6 +19,7 @@
  * 🎓 Pesquisadora | Meninas STEM
  * ☎️ Contato: **(98) 98 439-2704**.
 
+<br>
 
 ## ⭐ GitHub Stats
 <br>
@@ -19,9 +29,18 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&layout=compact&langs_count=6&theme=radical"/>
 </a>
 
-<br>
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
+</picture>
 
 <br><br>
+
+<h1>console.log("Hello, World!");</h1>
+<br>
 <img src=".github/workflows/study.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
@@ -64,12 +83,6 @@ Me chama no LinkedIn, no Insta ou por e-mail!  💌✨
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
   <img width="12" />
   
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
-</picture>
+<br>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=true&fontColor=6a329f,100:10002B"/>
