@@ -95,4 +95,4 @@ Não sou espectadora do futuro, sou autora dele. ✊💻<br>
   <img src="https://komarev.com/ghpvc/?username=yasmim&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&reversal=true&fontColor=6a329f,100:10002B"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=true&fontColor=6a329f,100:10002B"/>
