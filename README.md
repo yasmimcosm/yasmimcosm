@@ -80,7 +80,7 @@ Não sou espectadora do futuro, sou autora dele. ✊💻<br>
 <br><br>
 
 ## ⭐ GitHub Stats
-
+<div align="center">
 <br>
 
 <a href="https://github.com/yasmim-dev">
@@ -88,11 +88,13 @@ Não sou espectadora do futuro, sou autora dele. ✊💻<br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&layout=compact&langs_count=6&theme=radical"/>
 </a>
 
-<br><br>
-
-<p align="center">
+<p>
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yasmimcosm&theme=github-compact&line=6434eb&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 </p>
+
+<br><br>
+</div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yasmim&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
