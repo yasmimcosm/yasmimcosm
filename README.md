@@ -90,6 +90,10 @@ Não sou espectadora do futuro, sou autora dele. ✊💻<br>
 
 <br><br>
 
+<p align="center">
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yasmimcosm&theme=github-compact&line=6434eb&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+</p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yasmim&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
