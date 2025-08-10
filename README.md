@@ -20,8 +20,7 @@
 <div align="center">
 
   ### 💻 Tecnologias
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" title="Java" />
+  
   <img src="https://skillicons.dev/icons?i=html,css,js" />
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
