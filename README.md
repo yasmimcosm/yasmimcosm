@@ -85,7 +85,7 @@ Não sou espectadora do futuro, sou autora dele. ✊💻<br>
 </div>
 
 <p>
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yasmimcosm&theme=github-compact&line=6434eb&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yasmimcosm&theme=github-compact&line=ED9191&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 </p>
 
 <br><br>
