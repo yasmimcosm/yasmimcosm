@@ -86,7 +86,7 @@
 </table>
 
 <br><br>
-## ⭐ GitHub Stats ‧₊⊹
+## ꒰🌼꒱ ५◦ GitHub Stats ★ 𓂃
 <div align="center">
 <br>
 
