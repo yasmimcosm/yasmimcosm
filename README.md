@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFCBBF" />
 <h1 align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJrcGgyc3ZvaWZpeW9xbDhvZXprNzNhZGVuaTh6Z2wzaGVxZDZiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" height="45">
   Yasmim Silva Cosme
@@ -98,4 +99,4 @@ Não sou espectadora do futuro, sou autora dele. ✊💻<br>
   <img src="https://komarev.com/ghpvc/?username=yasmimcosm&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=true&fontColor=6a329f,100:10002B"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FFCBBF&section=footer"/>
