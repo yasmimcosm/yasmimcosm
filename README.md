@@ -20,25 +20,22 @@
 
 <div align="center">
 
-  ### 💻 Tecnologias
+  ### 💻 Tecnologias ‧₊⊹
   
   <img src="https://skillicons.dev/icons?i=html,css,js" />
   <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
   <br>
   
-  ### Ferramentas & Produtividade
+  ### Ferramentas & Produtividade ‧₊⊹
 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
   
 </div>
 
+
 <br><br>
-
-<h1>console.log("Hello, World!");</h1>
-
-<br>
 
 <img src=".github/workflows/study.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -78,13 +75,13 @@ Não sou espectadora do futuro, sou autora dele. ✊💻<br>
 
 <br><br>
 
-## ⭐ GitHub Stats
+## ⭐ GitHub Stats ‧₊⊹
 <div align="center">
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yasmimcosm&show_icons=true&count_private=true&hide_border=true&title_color=ff6ddf&icon_color=ffa0ea&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim Cosme github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&layout=compact&hide_border=true&title_color=ff6ddf&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yasmimcosm&show_icons=true&count_private=true&hide_border=true&title_color=EDA091&icon_color=FFCBBF&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim Cosme github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&layout=compact&hide_border=true&title_color=EDA091&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <p>
