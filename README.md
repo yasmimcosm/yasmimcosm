@@ -78,7 +78,7 @@
       <img
         src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDUyanRodGd1aWdzaW43eHJsN2NzdXpiM2t2cDVlaTd3bGtoamgwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif"
         alt="ilustração de um computador"
-        width="400"
+        width="350"
       >
     </td>
   </tr>
