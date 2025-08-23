@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <i>Desenvolvedora Frontend | Estudante de Ciência da Computação | Entusiasta em Ciência de Dados</i>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7338F&center=true&vCenter=true&width=435&lines=Desenvolvedora+Frontend;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Entusiasta+em+Ci%C3%AAncia+de+Dados" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -42,6 +42,7 @@
   <tr>
     <td>
       <br>
+      <h2>⋆｡‧˚ʚ🌷 ⋮ 👩🏻‍💻 tech girl ɞ˚‧｡⋆ </h2>
       <p align="left">
         Sou formada como Técnica em Administração pelo <strong>IFMA</strong> e atualmente curso o 2º período de <strong>Ciência da Computação</strong> na <strong>UFPI</strong>. Cientista da Computação em formação, determinada a transformar tecnologia em impacto social.
       </p>
