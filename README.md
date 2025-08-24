@@ -49,9 +49,6 @@
       <p align="left">
         Tenho me dedicado a criar soluções práticas com base em <strong>Ciência de Dados</strong>, <strong>Inteligência Artificial</strong> e <strong>Desenvolvimento Web</strong>, sempre com o propósito de inspirar e apoiar outras pessoas — especialmente meninas na tecnologia. 💗
       </p>
-      <p align="left">
-        Meus estudos estão focados em <strong>Python</strong>, <strong>C</strong> e <strong>JavaScript</strong>, explorando desde conceitos como <em>Programação Orientada a Objetos</em>, <em>Estrutura de                 Dados</em>, <em>Matemática Discreta</em> e <em>Cálculo</em>, até o desenvolvimento <em>Front-end</em> com <strong>HTML</strong> e <strong>CSS</strong>.
-      </p>
       <p>
         <br>
         Programar é minha forma de transformar o mundo.<br>
