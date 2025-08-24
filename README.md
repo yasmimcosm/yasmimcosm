@@ -105,4 +105,4 @@
   <img src="https://komarev.com/ghpvc/?username=yasmimcosm&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FC97A8&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=FC97A8&section=footer"/>
