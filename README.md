@@ -34,8 +34,18 @@
   
 </div>
 
+<br><br>
+## ꒰🌼꒱ ५◦ GitHub Stats ★ 𓂃
+<div align="center">
+<br>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yasmimcosm&show_icons=true&count_private=true&hide_border=true&title_color=FC97A8&icon_color=FFCBBF&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim Cosme github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&layout=compact&hide_border=true&title_color=FC97A8&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 <br><br>
+</div>
 
 
 <table>
@@ -83,19 +93,10 @@
 </table>
 
 <br><br>
-## ꒰🌼꒱ ५◦ GitHub Stats ★ 𓂃
-<div align="center">
-<br>
-
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yasmimcosm&show_icons=true&count_private=true&hide_border=true&title_color=FC97A8&icon_color=FFCBBF&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim Cosme github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&layout=compact&hide_border=true&title_color=FC97A8&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
 <p>
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yasmimcosm&theme=github-compact&line=FC97A8&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
 </p>
-
 <br><br>
 </div>
 
