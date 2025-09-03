@@ -22,8 +22,7 @@
 
   ### 💻 Tecnologias ‧₊⊹
   
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,python" />
 
   <br>
   
