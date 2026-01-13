@@ -62,8 +62,8 @@
         Programar é minha forma de transformar o mundo.<br>
         Não sou espectadora do futuro, sou autora dele. ✊💻<br>
       </p>
-      p align="left">
-          Acredito em conexões que somam e transformam. Me chama no LinkedIn, no Insta ou por e-mail! 💌✨
+      <p>
+          Acredito em conexões que somam e transformam. Me chama no LinkedIn, <br> no Insta ou por e-mail! 💌✨
       </p>
       <p>ꉂ(˵˃ ᗜ ˂˵)</p>
       <br>
