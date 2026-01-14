@@ -36,7 +36,7 @@
 
 ## ꒰🌼꒱ ५◦ GitHub Stats ★ 𓂃
 <br>
-<div align="center"; style="display: flex; gap: 50px;"> 
+<div align="center"; gap: 50px;"> 
      <img 
         src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasmimcosm&theme=aura_dark"
       />
