@@ -33,18 +33,20 @@
 </div>
 
 <br><br>
-## ꒰🌼꒱ ५◦ GitHub Stats ★ 𓂃
-<div align="center">
-<br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=yasmimcosm&show_icons=true&count_private=true&hide_border=true&title_color=FC97A8&icon_color=FFCBBF&text_color=c9d1d9&bg_color=0d1117" alt="Yasmim Cosme github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&layout=compact&hide_border=true&title_color=FC97A8&text_color=c9d1d9&bg_color=0d1117" />
+## ꒰🌼꒱ ५◦ GitHub Stats ★ 𓂃
+<br>
+<div align="center"; style="display: flex; gap: 50px;"> 
+     <img 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasmimcosm&theme=aura_dark"
+      />
+      <img 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasmimcosm&theme=aura_dark"
+      />
+
 </div>
 
 <br><br>
-</div>
-
 
 <table>
   <tr>
