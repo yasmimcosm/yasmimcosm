@@ -15,8 +15,6 @@
   alt="Bem-vindo(a)!"
 />
 
-<br>
-
 ### Oiie, me chamo **Yasmim Silva Cosme** 💗  
 **Design que acolhe. Código que entrega.**
 <p>Entre <strong>UX Design</strong> e <strong>Front-End</strong>, eu crio experiências digitais com intenção.
