@@ -8,10 +8,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7338F&center=true&vCenter=true&width=435&lines=Desenvolvedora+Frontend;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Entusiasta+em+Ci%C3%AAncia+de+Dados" alt="Typing SVG" /></a>
 </p>
 
-<br/>
-
-<br clear="right"/>
-
 <img
   align="right"
   width="210"
