@@ -17,10 +17,10 @@
 
 <br>
 
-### Olá, eu sou a **Yasmim Silva Cosme** 💗  
+### Oiie, me chamo **Yasmim Silva Cosme** 💗  
 **Design que acolhe. Código que entrega.**
-  Entre <strong>UX Design</strong> e <strong>Front-End</strong>, eu crio experiências digitais com intenção.
-Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, por dentro e por fora.
+<p>Entre <strong>UX Design</strong> e <strong>Front-End</strong>, eu crio experiências digitais com intenção.
+Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, por dentro e por fora.</p>
   
 <br/>
       <p align="center">
