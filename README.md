@@ -86,10 +86,13 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
     </tr>
   </table>
 </div>
-  
-<br><br>
+
+<br>
 
 <div align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yasmimcosm&theme=github-compact&line=FC97A8&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+  
+<br><br>
   <img src="https://komarev.com/ghpvc/?username=yasmimcosm&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
