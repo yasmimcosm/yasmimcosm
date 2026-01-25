@@ -14,7 +14,7 @@
   src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ynh3cWltbjkyeGNta2s3Z2x4NXh4OWxveWF0Z3pvMGdoOTVtaDJxZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jOgrMfJBRG6vvQdBNr/giphy.gif"
   alt="Bem-vindo(a)!"
 />
-<br>
+<br><br>
 ### Oiie, me chamo **Yasmim Silva Cosme** 💗  
 **Design que acolhe. Código que entrega.**
 <p>Entre <strong>UX Design</strong> e <strong>Front-End</strong>, eu crio experiências digitais com intenção.
