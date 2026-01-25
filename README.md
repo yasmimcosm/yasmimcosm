@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FC97A8" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FC97A8" />
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJrcGgyc3ZvaWZpeW9xbDhvZXprNzNhZGVuaTh6Z2wzaGVxZDZiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" height="45">
   ⋆. ˚࿔ Yasmim Silva Cosme ˚⋆
 </h1>
