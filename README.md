@@ -73,7 +73,7 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
 
 <div align="center">
   
-## ꒰🌼꒱ ५◦ GitHub Stats ★ 𓂃
+## ꒰🌼꒱ ५◦ GitHub Stats 𓂃
 <br>
   <table>
     <tr>
