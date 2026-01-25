@@ -5,10 +5,52 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7338F&center=true&vCenter=true&width=435&lines=Desenvolvedora+Frontend;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Entusiasta+em+Ci%C3%AAncia+de+Dados" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7338F&center=true&vCenter=true&width=435&lines=Desenvolvedora+Frontend;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Entusiasta+em+Ci%C3%AAncia+de+Dados" alt="Typing SVG" /></a>
 </p>
 
----
+<img
+  align="right"
+  width="170"
+  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ynh3cWltbjkyeGNta2s3Z2x4NXh4OWxveWF0Z3pvMGdoOTVtaDJxZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jOgrMfJBRG6vvQdBNr/giphy.gif"
+  alt="Bem-vindo(a)!"
+/>
+
+<br>
+
+### Olá, eu sou a **Yasmim Silva Cosme** 💗  
+**Design que acolhe. Código que entrega.**
+  Entre <strong>UX Design</strong> e <strong>Front-End</strong>, eu crio experiências digitais com intenção.
+Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, por dentro e por fora.
+  
+<br/>
+      <p align="center">
+          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yasmimcosm@gmail.com" title="Gmail">
+                <img src="https://img.shields.io/badge/-Gmail-F55B5B?style=flat-square&labelColor=F55B5B&logo=gmail&logoColor=white" alt="Gmail"/>
+          </a>
+          <a href="https://www.linkedin.com/in/yasmim-cosme/" title="Linkedin">
+                <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          </a>
+          <a href="https://www.instagram.com/yasmimcosm?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr" title="Instagram">
+               <img src="https://img.shields.io/badge/-Instagram-FC97A8?style=flat-square&labelColor=FC97A8&logo=instagram&logoColor=white" alt="Instagram"/>
+         </a>
+     </p>
+
+<br>
+
+<div align="center">
+  <h2>💻 Tecnologias & Ferramentas ‧₊⊹</h2>
+
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-380815?style=for-the-badge&logo=html5&logoColor=ff617b" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-380815?style=for-the-badge&logo=css3&logoColor=ff617b" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-380815?style=for-the-badge&logo=javascript&logoColor=ff617b" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-380815?style=for-the-badge&logo=python&logoColor=ff617b" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Figma-380815?style=for-the-badge&logo=figma&logoColor=ff617b" alt="Figma" />
+    <img src="https://img.shields.io/badge/Git-380815?style=for-the-badge&logo=git&logoColor=ff617b" alt="Figma" />
+  </p>
+</div>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph-dark.svg">
@@ -16,86 +58,25 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
 </picture>
 
-<br>
+<br><br>
 
 <div align="center">
-
-  ### 💻 Tecnologias ‧₊⊹
   
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-
-  <br>
-  
-  ### Ferramentas & Produtividade ‧₊⊹
-
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-  
-</div>
-
-<br><br>
-
 ## ꒰🌼꒱ ५◦ GitHub Stats ★ 𓂃
 <br>
-<div align="center"; gap: 50px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasmimcosm&theme=aura_dark"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasmimcosm&theme=aura_dark"/>
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=yasmimcosm&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=FB607F&text_color=FDBCB4" height="165"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=FB607F&text_color=FDBCB4" height="165" alt="Top Langs"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
+  
 <br><br>
-
-<table>
-  <tr>
-    <td>
-      <br>
-      <h2>⋆｡‧˚ʚ🌷 ⋮ 👩🏻‍💻 tech girl ɞ˚‧｡⋆ </h2>
-      <p align="left">
-        Sou formada como Técnica em Administração pelo <strong>IFMA</strong> e atualmente curso o 2º período de <strong>Ciência da Computação</strong> na <strong>UFPI</strong>. Cientista da Computação em formação, determinada a transformar tecnologia em impacto social.
-      </p>
-      <p align="left">
-        Tenho me dedicado a criar soluções práticas com base em <strong>Ciência de Dados</strong>, <strong>Inteligência Artificial</strong> e <strong>Desenvolvimento Web</strong>, sempre com o propósito de inspirar e apoiar outras pessoas — especialmente meninas na tecnologia. 💗
-      </p>
-      <p>
-        <br>
-        Programar é minha forma de transformar o mundo.<br>
-        Não sou espectadora do futuro, sou autora dele. ✊💻<br>
-      </p>
-      <p>
-          Acredito em conexões que somam e transformam. Me chama no LinkedIn, <br> no Insta ou por e-mail! 💌✨
-      </p>
-      <p>ꉂ(˵˃ ᗜ ˂˵)</p>
-      <br>
-      <p align="left">
-          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yasmimcosm@gmail.com" title="Gmail">
-                <img src="https://img.shields.io/badge/-Gmail-F55B5B?style=flat-square&labelColor=F55B5B&logo=gmail&logoColor=white" alt="Gmail"/>
-          </a>
-          <a href="https://www.linkedin.com/in/yasmim-cosme/" title="LinkedIn">
-                <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-          </a>
-          <a href="https://www.instagram.com/yasmimcosm?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr" title="Instagram">
-               <img src="https://img.shields.io/badge/-Instagram-FC97A8?style=flat-square&labelColor=FC97A8&logo=instagram&logoColor=white" alt="Instagram"/>
-         </a>
-     </p>
-    <br>
-    </td>
-    <td>
-      <img
-        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDUyanRodGd1aWdzaW43eHJsN2NzdXpiM2t2cDVlaTd3bGtoamgwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/giphy.gif"
-        alt="ilustração de um computador"
-        width="350"
-      >
-    </td>
-  </tr>
-</table>
-
-<br><br>
-<div align="center">  
-<p>
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yasmimcosm&theme=github-compact&line=FC97A8&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
-</p>
-<br><br>
-</div>
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yasmimcosm&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
