@@ -79,10 +79,10 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yasmimcosm&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=FB607F&text_color=FDBCB4" height="165"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=yasmimcosm&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="165"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/username=yasmimcosm&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=FB607F&text_color=FDBCB4" height="165" alt="Top Langs"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="165" alt="Top Langs"/>
       </td>
     </tr>
   </table>
