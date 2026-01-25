@@ -21,17 +21,20 @@
 Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, por dentro e por fora.</p>
   
 <br/>
-      <p align="center">
-          <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yasmimcosm@gmail.com" title="Gmail">
-                <img src="https://img.shields.io/badge/-Gmail-F55B5B?style=flat-square&labelColor=F55B5B&logo=gmail&logoColor=white" alt="Gmail"/>
-          </a>
-          <a href="https://www.linkedin.com/in/yasmim-cosme/" title="Linkedin">
-                <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-          </a>
-          <a href="https://www.instagram.com/yasmimcosm?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr" title="Instagram">
-               <img src="https://img.shields.io/badge/-Instagram-FC97A8?style=flat-square&labelColor=FC97A8&logo=instagram&logoColor=white" alt="Instagram"/>
-         </a>
-     </p>
+<p align="center">
+  <sub>Conheça meu trabalho  &nbsp;•&nbsp;  Conecte-se comigo</sub><br/><br/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yasmimcosm@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-F55B5B?style=flat-square&labelColor=F55B5B&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/yasmim-cosme/" title="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <a href="https://www.instagram.com/yasmimcosm?igsh=MTIzbGJ6YjN0dHoyYw%3D%3D&utm_source=qr" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-FC97A8?style=flat-square&labelColor=FC97A8&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 <br>
 
