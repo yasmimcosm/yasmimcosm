@@ -53,6 +53,7 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
 
   <p>
     <!-- Ferramentas -->
+    <img src="https://img.shields.io/badge/Node.js-380815?style=for-the-badge&logo=node.js&logoColor=ff617b" alt="VS Code"/>
     <img src="https://img.shields.io/badge/Figma-380815?style=for-the-badge&logo=figma&logoColor=ff617b" alt="Figma" />
     <img src="https://img.shields.io/badge/Git-380815?style=for-the-badge&logo=git&logoColor=ff617b" alt="Git" />
     <img src="https://img.shields.io/badge/GitHub-380815?style=for-the-badge&logo=github&logoColor=ff617b" alt="GitHub"/>
