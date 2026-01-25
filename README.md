@@ -22,7 +22,8 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
   
 <br/>
 <p align="center">
-  <sub>Acredito em conexões que somam e transformam. &nbsp;•&nbsp;  Me chama no LinkedIn, <br> no Insta ou por e-mail! 💌✨</sub><br/><br/>
+  <sub>Acredito em conexões que somam e transformam. &nbsp;•&nbsp;  Me chama no LinkedIn, <br> no Insta ou por e-mail! 💌✨</sub><<br/>
+     <br>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yasmimcosm@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-F55B5B?style=flat-square&labelColor=F55B5B&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
