@@ -29,7 +29,7 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
   <img src="https://img.shields.io/badge/-Gmail-F55B5B?style=flat-square&labelColor=F55B5B&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/yasmim-cosme/" title="Linkedin">
+  <a href="https://www.linkedin.com/in/yasmimcosme/" title="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
