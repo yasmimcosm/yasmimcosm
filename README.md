@@ -8,13 +8,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7338F&center=true&vCenter=true&width=435&lines=Desenvolvedora+Frontend;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Entusiasta+em+Ci%C3%AAncia+de+Dados" alt="Typing SVG" /></a>
 </p>
 
-<img
-  align="right"
-  width="210"
-  src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ynh3cWltbjkyeGNta2s3Z2x4NXh4OWxveWF0Z3pvMGdoOTVtaDJxZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jOgrMfJBRG6vvQdBNr/giphy.gif"
-  alt="Bem-vindo(a)!"
-/>
-
 <br/>
 
 <br clear="right"/>
