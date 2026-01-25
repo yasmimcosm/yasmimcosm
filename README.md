@@ -10,7 +10,7 @@
 
 <img
   align="right"
-  width="160"
+  width="210"
   src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ynh3cWltbjkyeGNta2s3Z2x4NXh4OWxveWF0Z3pvMGdoOTVtaDJxZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jOgrMfJBRG6vvQdBNr/giphy.gif"
   alt="Bem-vindo(a)!"
 />
@@ -20,7 +20,7 @@
 <p>Entre <strong>UX Design</strong> e <strong>Front-End</strong>, eu crio experiências digitais com intenção.
 Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, por dentro e por fora.</p>
   
-<br>
+<br><br>
 
 <p align="center">
     <sub>Acredito em conexões que somam e transformam. &nbsp;•&nbsp;  Me chama no LinkedIn, <br> no Insta ou por e-mail! 💌✨</sub><br/>
