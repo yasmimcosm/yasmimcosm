@@ -45,7 +45,7 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
 
   <p>
     <!-- Linguagens -->
-      <img src="https://img.shields.io/badge/HTML5-380815?style=for-the-badge&logo=html5&logoColor=ff617b" alt="HTML5" />
+    <img src="https://img.shields.io/badge/HTML5-380815?style=for-the-badge&logo=html5&logoColor=ff617b" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS-380815?style=for-the-badge&logo=css&logoColor=ff617b" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-380815?style=for-the-badge&logo=javascript&logoColor=ff617b" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Python-380815?style=for-the-badge&logo=python&logoColor=ff617b" alt="Python" />
@@ -79,10 +79,10 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yasmimcosm&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="165" alt="Github Status"/>
+          <img src="https://github-readme-stats-seven-mu-11.vercel.app/api?username=yasmimcosm&hide_border=true&bg_color=0d1117&title_color=ff617b&text_color=FFFFFF" height="165" alt="Github Status"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmimcosm&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="165" alt="Top Langs"/>
+        <img src="https://github-readme-stats-seven-mu-11.vercel.app/api/top-langs?username=yasmimcosm&hide_border=true&bg_color=0d1117&title_color=ff617b&text_color=FFFFFF" height="250" alt="Top Langs"/>
       </td>
     </tr>
   </table>
