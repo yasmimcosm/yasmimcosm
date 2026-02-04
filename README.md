@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FC97A8" />
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJrcGgyc3ZvaWZpeW9xbDhvZXprNzNhZGVuaTh6Z2wzaGVxZDZiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" height="45">
   ⋆. ˚࿔ Yasmim Silva Cosme ˚⋆
 </h1>
@@ -96,5 +95,3 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
 <br><br>
   <img src="https://komarev.com/ghpvc/?username=yasmimcosm&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=FC97A8&section=footer"/>
