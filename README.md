@@ -40,7 +40,7 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
 <br>
 
 <div align="center">
-  <h2>💻 Tecnologias & Ferramentas ‧₊⊹</h2>
+  <h2>💻 Tecnologias & Ferramentas </h2>
 
   <p>
     <!-- Linguagens -->
@@ -63,35 +63,21 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yasmimcosm/yasmimcosm/output/pacman-contribution-graph.svg">
-</picture>
-
-<br><br>
-
 <div align="center">
-  
-## ꒰🌼꒱ ५◦ GitHub Stats 𓂃
 <br>
   <table>
     <tr>
       <td>
-          <img src="https://github-readme-stats-seven-mu-11.vercel.app/api?username=yasmimcosm&hide_border=true&bg_color=0d1117&title_color=ff617b&text_color=FFFFFF" height="165" alt="Github Status"/>
+          <img src="https://github-readme-stats-seven-mu-11.vercel.app/api?username=yasmimcosm&hide_border=true&bg_color=0d1117&title_color=ff617b&text_color=FFFFF1" height="165" alt="Github Status"/>
       </td>
       <td>
-        <img src="https://github-readme-stats-seven-mu-11.vercel.app/api/top-langs?username=yasmimcosm&hide_border=true&bg_color=0d1117&title_color=ff617b&text_color=FFFFFF" height="250" alt="Top Langs"/>
+        <img src="https://github-readme-stats-seven-mu-11.vercel.app/api/top-langs?username=yasmimcosm&hide_border=true&bg_color=0d1117&title_color=ff617b&text_color=FFFFF1" height="250" alt="Top Langs"/>
       </td>
     </tr>
   </table>
-</div>
 
 <br>
 
-<div align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yasmimcosm&theme=github-compact&line=FC97A8&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
-  
 <br><br>
   <img src="https://komarev.com/ghpvc/?username=yasmimcosm&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
