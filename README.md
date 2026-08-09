@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=84714F&center=true&vCenter=true&width=435&lines=Desenvolvedora+Frontend;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Entusiasta+em+Ci%C3%AAncia+de+Dados" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A38D66&center=true&vCenter=true&width=435&lines=Desenvolvedora+Frontend;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Entusiasta+em+Ci%C3%AAncia+de+Dados" alt="Typing SVG" /></a>
 </p>
 
 <img
@@ -44,19 +44,18 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
 
   <p>
     <!-- Linguagens -->
-    <img src="https://img.shields.io/badge/HTML5-380815?style=for-the-badge&logo=html5&logoColor=ff617b" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS-380815?style=for-the-badge&logo=css&logoColor=ff617b" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-380815?style=for-the-badge&logo=javascript&logoColor=ff617b" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Python-380815?style=for-the-badge&logo=python&logoColor=ff617b" alt="Python" />
+    <img src="https://img.shields.io/badge/HTML5-31231E?style=for-the-badge&logo=html5&logoColor=ff617b" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS-31231E?style=for-the-badge&logo=css&logoColor=ff617b" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-31231E?style=for-the-badge&logo=javascript&logoColor=ff617b" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-31231E?style=for-the-badge&logo=python&logoColor=ff617b" alt="Python" />
   </p>
 
   <p>
     <!-- Ferramentas -->
-    <img src="https://img.shields.io/badge/Node.js-380815?style=for-the-badge&logo=node.js&logoColor=ff617b" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/Figma-380815?style=for-the-badge&logo=figma&logoColor=ff617b" alt="Figma" />
-    <img src="https://img.shields.io/badge/Git-380815?style=for-the-badge&logo=git&logoColor=ff617b" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-380815?style=for-the-badge&logo=github&logoColor=ff617b" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/VS_Code-380815?style=for-the-badge&logo=visual-studio-code&logoColor=ff617b" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Node.js-31231E?style=for-the-badge&logo=node.js&logoColor=ff617b" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Figma-31231E?style=for-the-badge&logo=figma&logoColor=ff617b" alt="Figma" />
+    <img src="https://img.shields.io/badge/Git-31231E?style=for-the-badge&logo=git&logoColor=ff617b" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-31231E?style=for-the-badge&logo=github&logoColor=ff617b" alt="GitHub"/>
   </p>
 
 </div>
