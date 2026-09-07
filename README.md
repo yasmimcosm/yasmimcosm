@@ -47,7 +47,8 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
     <img src="https://img.shields.io/badge/HTML5-31231E?style=for-the-badge&logo=html5&logoColor=ff617b" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS-31231E?style=for-the-badge&logo=css&logoColor=ff617b" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-31231E?style=for-the-badge&logo=javascript&logoColor=ff617b" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Python-31231E?style=for-the-badge&logo=python&logoColor=ff617b" alt="Python" />
+    <img src="https://img.shields.io/badge/C++-31231E?style=for-the-badge&logo=cplusplus&logoColor=ff617b" alt="C++" />
+    <img src="https://img.shields.io/badge/PHP-31231E?style=for-the-badge&logo=php&logoColor=ff617b" alt="PHP" />
   </p>
 
   <p>
