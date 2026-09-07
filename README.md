@@ -68,15 +68,13 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
   <table>
     <tr>
       <td>
-          <img src="https://github-readme-stats-seven-mu-11.vercel.app/api?username=yasmimcosm&hide_border=true&bg_color=0d1117&title_color=ff617b&text_color=FFFFF1" height="165" alt="Github Status"/>
+          <img src="https://github-stats-extended.vercel.app/api?username=yasmimcosm&show_icons=true&include_all_commits=true&theme=radical" height="220" alt="Github Status"/>
       </td>
       <td>
-        <img src="https://github-readme-stats-seven-mu-11.vercel.app/api/top-langs?username=yasmimcosm&hide_border=true&bg_color=0d1117&title_color=ff617b&text_color=FFFFF1" height="250" alt="Top Langs"/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=yasmimcosm&langs_count=5&theme=radical" height="250" alt="Top Langs"/>
       </td>
     </tr>
   </table>
-
-<br>
 
 <br><br>
   <img src="https://komarev.com/ghpvc/?username=yasmimcosm&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
