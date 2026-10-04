@@ -77,7 +77,4 @@ Projetos que respeitam tempo, atenção e sentimento — e que funcionam bem, po
       </td>
     </tr>
   </table>
-
-<br><br>
-  <img src="https://komarev.com/ghpvc/?username=yasmimcosm&color=red&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
