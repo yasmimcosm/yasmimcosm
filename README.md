@@ -39,10 +39,6 @@ Gosto de construir sistemas bem estruturados, com <strong>back-end</strong> sól
   <a href="https://www.tiktok.com/@cosmitax" title="TikTok">
     <img src="https://img.shields.io/badge/-TikTok-2c5f38?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
-
-  <a href="https://yasmimcosm.github.io/links" title="Meus links">
-    <img src="https://img.shields.io/badge/-Meus%20links-2c5f38?style=flat-square&logo=linktree&logoColor=white" alt="Meus links"/>
-  </a>
 </p>
 
 <br>
